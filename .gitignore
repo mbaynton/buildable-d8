@@ -124,6 +124,7 @@ Thumbs.db
 /sites/example.settings.local.php
 /sites/example.sites.php
 /themes/README.txt
+/web.config
 
 
 # Other common rules
